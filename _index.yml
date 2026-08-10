@@ -1,0 +1,26 @@
+---
+product-family:
+  title: NetApp Console 和 NetApp Console 本機部署
+  lead: NetApp 提供兩種方式來執行其統一化儲存管理平台：NetApp Console 和 NetApp Console 本機部署。兩者共享相同的基礎架構，但在架構、連線方式、功能範圍和運作模式方面有所不同。
+  summary: NetApp 提供兩種方式來執行其統一化儲存管理平台：NetApp Console 和 NetApp Console local deployment。兩者共享相同的基礎，但在架構、連線能力、功能範圍和運作模式方面有所不同。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: NetApp Console
+    tags: console
+  - title: NetApp Console 本地部署
+    tags: console-local
+  tiles:
+  - title: 了解 NetApp Console 和 NetApp Console 本地部署
+    url: intro-family.html
+    summary: 比較 NetApp Console 本機部署與 NetApp Console。
+    tags: all, console, console-local
+  - title: NetApp Console
+    url: "../console-family/index.html"
+    summary: 了解 NetApp Console 如何協助您管理混合雲儲存環境。
+    tags: console, all
+  - title: NetApp Console 本地部署
+    url: "../console-local-family/index.html"
+    summary: 了解 NetApp Console 本地部署如何透過一個安全的控制平面，為團隊提供在地端環境中進行至能機組管理的能力。
+    tags: console-local, all
