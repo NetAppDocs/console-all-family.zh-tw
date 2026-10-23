@@ -30,8 +30,6 @@
   <block id="69c0257b1ba8a3ba7687d4f7a9883d7f" category="list-text">設定電子郵件和 Webhook 通知管道，以便在儲存設備條件變更時，警報能夠及時送達相關團隊。Webhook 可與您現有的監控和事件管理工具整合。</block>
   <block id="00c24ecc0e9a6f1c6a5202f40e8c96c1" category="paragraph">Console 本機部署支援內部部署 ONTAP 叢集及 NetApp Backup and Recovery。它與 Active Directory 整合以實現聯合驗證，並支援本機使用者的多因素驗證。</block>
   <block id="be6ca74d1ea996c7c4fe59d3f22d39a4" category="paragraph">Console 本地部署最適合擁有大型本地 ONTAP 環境且需要原則驅動型資源配置、自動法規遵循檢查和完整資料主權的組織。</block>
-  <block id="70b86d6aa7fb00fd1d760b33b8607159" category="inline-link-macro">了解 NetApp Console 本機部署^。</block>
-  <block id="f64bf1d04df251b82d06554b478f9ae4" category="paragraph"><block ref="f64bf1d04df251b82d06554b478f9ae4" category="inline-link-macro-rx"></block></block>
   <block id="0161e3d40bdbea6ca6998c8c60165b33" category="section-title">功能比較</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="section-title">儲存管理</block>
   <block id="21021ea0e52be8e9c599f4dff41e5be0" category="cell">功能</block>
@@ -81,4 +79,6 @@
   <block id="5a019da3367b24bc2b788313b9b9707e" category="sidebar">了解 NetApp Console 如何協助您管理混合雲儲存環境。</block>
   <block id="7fcb017442ae9c2cb27559e9f3b952a7" category="sidebar">了解 NetApp Console 本地部署如何透過一個安全的控制平面，為團隊提供在地端環境中進行至能機組管理的能力。</block>
   <block id="e8823bef19fa13439f3ec13fdb71c5bb" category="sidebar">了解 NetApp Console 本機部署</block>
+  <block id="52ae244e9f2a39b24f6e7062c06f1548" category="inline-link-macro">了解 NetApp Console 本地部署。</block>
+  <block id="a8f4a115cb2472a4344e18b6a59c28a7" category="paragraph"><block ref="a8f4a115cb2472a4344e18b6a59c28a7" category="inline-link-macro-rx"></block></block>
 </blocks>
